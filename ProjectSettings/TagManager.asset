@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spaceship
+  - PlayerAttack
+  - Enemy
+  - PlayerInteractions
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Interactibles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: TIlemap
+    uniqueID: 4264613677
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: interactibles
+    uniqueID: 2485865949
+    locked: 0
+  - name: UI
+    uniqueID: 1727303689
+    locked: 0
+  - name: Player
+    uniqueID: 3416942089
+    locked: 0
